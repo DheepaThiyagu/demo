@@ -1,4 +1,6 @@
+
 file chenged inside pull demo 
+new changes done 
 stash changes
   hi dheepa
 hello world
